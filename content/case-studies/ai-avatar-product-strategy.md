@@ -1,6 +1,6 @@
 ---
 title: AI Avatar North Star
-draft: true
+draft: false
 tags:
   - hardware
 cssclasses:
@@ -15,7 +15,7 @@ date: 2026-01-01
 
 **Team:** Account lead · PM · Designer
 
-**Client:** FAANG Devices Team
+**Client:** Fortune 100 Devices Team
 
 <!-- intro -->
 Two phases of mixed-methods research reframed an AI avatar concept from "smart speaker with a face" into a sharper expert-coach narrative with two viable beachhead audiences — directly shaping the product brief and supporting an executive demo.

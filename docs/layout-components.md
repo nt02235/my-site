@@ -35,6 +35,10 @@ Component.Flex({
       grow: true, // Search will grow to fill available space
     },
     { Component: Component.Darkmode() }, // Darkmode keeps its natural size
+    // { 
+    //   Component: Component.Darkmode(),
+    //   align: "end",
+    // }, // Didn't work / NT
   ],
   direction: "row",
   gap: "1rem",

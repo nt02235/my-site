@@ -9,6 +9,7 @@
   margin: 0;
   text-align: inherit;
   flex-shrink: 0;
+  // justify-content: right; // moving it by NT / didn't work.
 
   & svg {
     position: sticky;

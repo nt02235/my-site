@@ -1,6 +1,6 @@
 ---
 title: Ticketing Buddy
-draft: true
+draft: false
 tags:
   - digital
 date: 2024-12-30
