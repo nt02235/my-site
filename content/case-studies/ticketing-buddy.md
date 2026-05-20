@@ -2,6 +2,8 @@
 title: Ticketing Buddy
 draft: false
 tags:
+  - digital
+date: 2024-12-30
 ---
 
 # 1:1 Ticketing Experience Pilot
