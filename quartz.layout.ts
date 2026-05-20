@@ -38,12 +38,12 @@ export const defaultContentPageLayout: PageLayout = {
     //     { Component: Component.ReaderMode() },
     //   ],
     // }),
-    Component.Explorer(),
+    // Component.Explorer(),
   ],
   right: [
     // Component.Graph(),
     // Component.DesktopOnly(Component.TableOfContents()),
-    // Component.Backlinks(),
+    Component.Backlinks(),
   ],
 }
 
@@ -51,18 +51,18 @@ export const defaultContentPageLayout: PageLayout = {
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
-    Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
+    // Component.PageTitle(),
+    // Component.MobileOnly(Component.Spacer()),
     Component.Flex({
       components: [
-        {
-          Component: Component.Search(),
-          grow: true,
-        },
+        // {
+        //   Component: Component.Search(),
+        //   grow: true,
+        // },
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    // Component.Explorer(),
   ],
   right: [],
 }

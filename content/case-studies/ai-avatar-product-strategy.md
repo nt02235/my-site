@@ -22,31 +22,46 @@ Two phases of mixed-methods research reframed an AI avatar concept from "smart s
 
 ## Context
 
-A hardware proof-of-concept had generated executive excitement but lacked the research-backed foundation needed for leadership confidence that the product had legs. The core questions: does this concept work with consumers, who is it for, and what does the avatar actually do for users?
+A hardware proof-of-concept had generated executive excitement but lacked  research-backed foundation needed for leadership confidence that this was a viable consumer product. 
 
-I took the methodology lead from kickoff, reworking learning questions across three test plan iterations. The most consequential call came in week 8: I reversed my own initial position on qual-vs-quant sequencing, recommending qual-first based on the early-stage nature of the concept. That decision shaped the entire engagement.
+### The core questions: 
+1. Does this concept work with consumers?
+2. Who is it for?
+3. What is the role of the avatar for users?
 
 ---
 
 ## Approach
 
-- Phase 1 — Concept viability and audience identification (Nov – Dec 2025) Online survey with concept testing (n=1,200, gen-pop with parent quotas), mobile diary studies, and 1:1 IDIs with smart speaker power users. Low-fidelity sketches conveying form factor; 29 use cases ranked by participants. Goal: establish whether the concept had legs and identify who it was for.
+### Phase 1 — Concept viability and audience identification (5 weeks) 
+**Goal:** establish whether the concept viability and identify beachhead audiences through segmentation analysis (LCA)
+- Online survey with concept testing (n=1,200 gen-pop)
+- Mobile diary studies and follow-up 1:1 interviews
+- Concept feedback across quant and qual via low-fidelity stimuli
+	- "Sketches" conveying form factor and hardware features
+	- ~30 use cases write-ups
 
-- Phase 2 — Sharpening the value of the avatar (Jan – Apr 2026) Phase 1 had benchmarked the concept against smart speakers. Phase 2 tested the avatar's specific value relative to text chatbots and voice assistants, using refined stimuli and direct comparison tasks across additional IDIs.
+### Phase 2 — Sharpening the value of the avatar (4 weeks) 
+**Goal:** Phase 1 had benchmarked the concept against smart speakers. Phase 2 tested the avatar's specific value relative to text chatbots and voice assistants, using refined stimuli and direct comparison tasks across additional IDIs.
+- Mobile diary studies and follow-up 1:1 interviews
+- Use case testing with higher fidelity video clips
+	- 30-second intro
+	- 6 use case clips
+	- Voice / Screen / Avatar-based alt to isolate modality preference
 
 ---
 
 ## Key findings
 
-- **Two beachhead audiences:** Tech-centric families and performance-oriented power users — an expansion from Phase 1's family-first framing, giving the client a more flexible go-to-market story.
+1. **Two beachhead audiences:** Tech-centric families and performance-oriented power users — an expansion from Phase 1's family-first framing, giving the client a more flexible go-to-market story.
 
-- **Expert use cases win:** Cooking and exercise were the only scenarios where the avatar clearly outperformed voice-only interaction, scoring 4.7 and 4.5 out of 5. Butler use cases had immediate appeal; companion use cases didn't hold up.
+2. **Expert use cases win:** Cooking and exercise were the only scenarios where the avatar clearly outperformed voice-only interaction, scoring 4.7 and 4.5 out of 5. Butler use cases had immediate appeal; companion use cases didn't hold up.
 
-- **Avatar as trust signal:** Mismatched avatars (e.g., childlike voice paired with professional-advice use case) actively undermined user trust — repositioning avatar design from a styling decision to a functional product constraint.
+3. **Avatar as trust signal:** Mismatched avatars (e.g., childlike voice paired with professional-advice use case) actively undermined user trust — repositioning avatar design from a styling decision to a functional product constraint.
 
-- **Portability as must-have:** Surfaced unprompted in 8 of 16 Phase 2 sessions, anchored to kitchen and exercise spaces. Moved from stretch goal to hardware requirement based on user demand, not assumption.
+4. **Portability as must-have:** Surfaced unprompted in 8 of 16 Phase 2 sessions, anchored to kitchen and exercise spaces. Moved from stretch goal to hardware requirement based on user demand, not assumption.
 
-- **Context-dependent privacy:** Spatial awareness was rejected in the abstract but accepted when tied to specific user-controlled tasks — reshaping onboarding sequencing to never lead with always-on camera features.
+5. **Context-dependent privacy:** Spatial awareness was rejected in the abstract but accepted when tied to specific user-controlled tasks — reshaping onboarding sequencing to never lead with always-on camera features.
 
 ---
 
@@ -69,6 +84,7 @@ Research directly informed hardware placement decisions (bedroom removed from co
 
 Reversing my own methodological position mid-engagement — from quant-first to qual-first — was the right call and one I'd make again. The instinct to commit early was wrong; the concept's maturity level should drive sequencing, not habit.
 
-What I'd do differently: identify the single most load-bearing claim in the client's internal narrative and test it directly in Phase 1. The client's pitch leaned on an assertion that never made it into the stimuli — a gap that only became visible late. I'd also name client-side stakeholder misalignment earlier rather than absorbing it into the deliverable.
+### What I'd do differently: 
+- Identify the single most load-bearing claim in the client's internal narrative and test it directly in Phase 1. The client's pitch leaned on an assertion that never made it into the stimuli — a gap that only became visible late. I'd also name client-side stakeholder misalignment earlier rather than absorbing it into the deliverable.
 
-Synthesis framing matters as much as findings. A mid-engagement feedback session made clear the report read flat for internal selling — findings were right, but buried. Leading with the strategic assertion and using data to defend it, rather than building from data to assertion, is now a standing practice.
+- Synthesis framing matters as much as findings. A mid-engagement feedback session made clear the report read flat for internal selling — findings were right, but buried. Leading with the strategic assertion and using data to defend it, rather than building from data to assertion, is now a standing practice.

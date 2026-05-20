@@ -1,7 +1,7 @@
 ---
 title: Ticketing Buddy
 draft: false
-tags: B2C
+tags:
 ---
 
 # 1:1 Ticketing Experience Pilot
