@@ -6,7 +6,7 @@
 
 html {
   scroll-behavior: smooth;
-  text-size-adjust: none;
+  // text-size-adjust: none;
   overflow-x: hidden;
   width: 100vw;
 
@@ -16,7 +16,7 @@ html {
 }
 
 body {
-  margin: 0;
+  // margin: 0;
   box-sizing: border-box;
   background-color: var(--light);
   font-family: var(--bodyFont);
@@ -87,9 +87,9 @@ a {
   transition: color 0.2s ease;
   color: var(--secondary);
 
-  &:hover {
-    color: var(--tertiary);
-  }
+  // &:hover {
+  //   color: var(--tertiary);
+  // }
 
   &.internal {
     text-decoration: none;

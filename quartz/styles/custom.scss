@@ -1,3 +1,49 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+a {
+  color: #cb5822;
+  text-decoration: none;
+  letter-spacing: 0.08em;
+  border-bottom: 1px dashed transparent;
+  transition: border-color 0.5 ease;
+}
+
+a:hover {
+  border-bottom-color: #cb5822;
+}
+
+html {
+  font-size: 120%;
+}
+
+body {
+  line-height: 2;
+  font-size: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+h1 {
+  font-size: 1.5em;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  margin-top: 1.5rem;
+}
+
+h2 {
+    color: #cb5822;
+}
+
+//////////////////////////
+///* ── Case study ── *///
+//////////////////////////
+li {
+  display: grid;
+  //grid-template-columns: 140px 1fr;
+  //gap: 1.5rem;
+  padding: 1rem 0;
+  font-size: 1rem;
+  color: #4a4748;
+  border-top: 1px dotted rgba(50, 47, 52, 0.15);
+}
