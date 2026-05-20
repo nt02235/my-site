@@ -3,6 +3,7 @@ title: AI Avatar North Star
 draft: false
 tags:
 cssclasses:
+date: 2026-01-01
 ---
 # AI Avatar Product Concept
 

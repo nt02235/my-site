@@ -11,7 +11,7 @@ const config: QuartzConfig = {
     pageTitle: "Nathalie Torres",
     pageTitleSuffix: "",
     enableSPA: true,
-    enablePopovers: true,
+    enablePopovers: false,
     analytics: {
       provider: "plausible",
     },
@@ -29,15 +29,15 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#f5f4f5ff",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#322f34ff",
-          secondary: "#24304bff",
-          tertiary: "#84a59d",
+          light: "#fdfdfbFF",
+          lightgray: "#f7f6f6FF",
+          gray: "#a4a5a6FF",
+          darkgray: "#746c6fFF",
+          dark: "#212026FF",
+          secondary: "#d4612dFF",
+          tertiary: "#32415eFF",
           highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          textHighlight: "#FFA98788",
         },
         darkMode: {
           light: "#161618",

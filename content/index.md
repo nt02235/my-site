@@ -2,13 +2,11 @@
 title: Nathalie Torres
 draft: false
 ---
-
 # Nathalie Torres
 
-I'm a UX Researcher from New York, NY.<br>
+I'm a User Researcher from New York, NY. 
 
-[LinkedIn](https://www.linkedin.com/in/nathalietorres/)<br>
+Take a gander at my [LinkedIn](https://www.linkedin.com/in/nathalietorres/). 
 
-## Portfolio
-1. [[ai-avatar-product-strategy]]
-2. [[ticketing-buddy]]
+I also have some [[case-studies/index|case studies]].
+
