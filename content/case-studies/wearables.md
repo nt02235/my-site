@@ -1,6 +1,6 @@
 ---
 title: Wearables (Coming soon...)
-draft: false
+draft: true
 date: 2025-09-15
 tags:
   - hardware

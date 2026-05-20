@@ -1,6 +1,6 @@
 ---
 title: AI Avatar North Star
-draft: false
+draft: true
 tags:
   - hardware
 cssclasses:
