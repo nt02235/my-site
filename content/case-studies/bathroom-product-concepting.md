@@ -3,10 +3,10 @@ title: Bathroom Product Concepts
 draft: false
 tags:
   - hardware
-cssclasses:
 date: 2026-03-31
 enableToc: "true"
 ---
+
 # Expanding into the Bathroom
 
 <!-- meta -->
@@ -29,22 +29,14 @@ Our client is a well-known household brand, with market leadership for their fla
 
 With fewer customers upgrading, our client wanted to explore purpose-built devices designed specifically for private spaces as a path for growing device ownership. Strategically, our PM team chose the bathroom to focus on, hypothesizing that it was a natural space for consumers to integrate health tech, a market that showed promising growth.   
 
-%% Opportunity: Few customers utilize this product category in private spaces, particularly the bathroom. 
+### Project Goal:
+Breadth of product concepts purpose-built for the bathroom, inspired by generative primary research.
 
-The client's devices team was exploring whether smart home products could meaningfully expand into the bathroom. The brief was ambitious — customer research, concept territories, and device concepts — compressed into roughly six weeks.
-
-The core gap was behavioral: the team had hypotheses (smart mirrors, health tracking as a growth area) but nothing from real users. My job was to generate that grounding quickly, and help the team understand which problems were actually worth solving.
-
-Two early scope decisions defined the project: reframing an overly ambitious research plan around clear learning questions linked to product outcomes, and consolidating health tracking as a topic within the bathroom study rather than running it as a parallel project. %%
-
-### The core questions: 
+### Core Questions: 
 1. How do people actually use bathrooms? What factors influence behavior?
 2. What does friction look like in real routines and bathroom spaces?
 3. How do personal devices and technology play a role in daily bathroom routines?
 4. What opportunities does health tech play in daily bathroom routines? 
-
-### Project Goal:
-Breadth of product concepts purpose-built for the bathroom, inspired by generative primary research.
 
 ---
 
@@ -52,10 +44,20 @@ Breadth of product concepts purpose-built for the bathroom, inspired by generati
 
 ### Sprint 1: Research
 
+Because this work was directly informing product concepting, we prioritized qualitative methods to gather anecdotes, rich insights.
+
+Our imperative was to understand daily bathroom routines, the space, and existing device ownership, informing selection of a mobile diary study (dscout) as a field study. 
+
 **Role:**
 - Prioritized research questions with client
 - Refined scope of PM's research "wish list" of quant, qual, max/diff into high-value research for early concept stage work
 - Designed, executed, and analyzed research
+
+**Audience:**
+- Recruited existing customers of smart device
+	- Strategic imperative to target existing customers and grow device ownership
+- Mix of household composition and bathroom sizes
+- Included a small subset of users with smart device already in the bathroom to understand behavior and pain points
 
 **Mobile Diary Study (n=18)**
 - Four structured activities covering smart device tours, bathroom tours, and morning/evening routine logging. 
@@ -81,12 +83,29 @@ Breadth of product concepts purpose-built for the bathroom, inspired by generati
 
 ---
 
-## Key findings
+## Key Findings & Implications
 
-1. **Two distinct modes:** Users toggle between efficiency-focused (morning, functional) and self-care ritualism (evening, restorative). Devices that served one mode often created friction in the other.
-2. **Static space, dynamic needs:** Bathrooms are fixed environments but user needs shift by day, calendar, sleep quality, and household composition. People had developed fragile workarounds — propped phones, extension cords — to compensate.
-3. **Health as aspiration:** Users were motivated to self-improve but overwhelmed by data without guidance. They wanted an active partner in their wellness goals, not more numbers to interpret.
-4. **Physical constraints, not privacy:** Power outlets and counter space were the primary barriers to device adoption — not privacy concerns, which were less significant than initially hypothesized.
+<div class="cs-findings"> 
+	<li> 
+		<span class="cs-finding-label">
+			Two distinct mindset modes:
+		</span>
+		<span>
+			Across the respondents, users toggle between efficiency-focused (morning, functional) and self-care ritualism (evening, restorative).
+		</span>
+	</li>
+</div>
+
+1. **Two distinct mindset modes:** Across the respondents, users toggle between efficiency-focused (morning, functional) and self-care ritualism (evening, restorative). 
+	- User-based personalization must take time of day into account
+	- Efficiency modes require hands-free controls
+2. **Bathroom-specific barriers:** Humidity, wet hands, and water caused device anxiety. Users were open to technology in the bathroom, but worried about electrical shock and durability of their device, especially for parents of young children. 
+	- Include waterproof hardware for child-friendly concepts
+3. **Static space with limited configuration:** Bathrooms are fixed environments that are not easily modified. A lack of counter space, organization, and power outlets were a consistent pain point, regardless of household size.
+	- Hardware design must be mindful of space constraints.
+	- Installation must be minimal and easy
+![[Illustrative-Diary-Image.png]]
+4. **Bathroom is an anchor for health:** Evaluating personal health naturally happens in the bathroom. The mirror, toilet, and shower are key places to 
 
 
 
@@ -95,13 +114,19 @@ Breadth of product concepts purpose-built for the bathroom, inspired by generati
 ## Impact
 
 <!-- metrics -->
-- 3 | Product concept territories seeded by research
+%% - 3 | Product concept territories seeded by research
 - 6 | Senior stakeholders at initial readout
 - 3 wks | Fielding window for diary study + interviews
-- ↑ | Research deck reused internally 1 week post-delivery
+- ↑ | Research deck reused internally 1 week post-delivery %%
+This project was about early product concepting. 
 
-Research directly informed hardware placement decisions (bedroom removed from consideration), onboarding sequence design, and product positioning. The engagement grew from a research scope to include concept film support, PRFAQ contribution, north star drafting, and executive demo prep — scope expansions that reflect decision-making trust, not just delivery.
-
+1. Directly influenced research plan, shifting from a PM "wish list" to focusing on the right methods for informing concept development
+2. Research directly informed 3 concept pillars:
+	1. Space-conscious hardware
+	2. Maximizing hands-free productivity
+	3. On-demand health guidance
+3. I collaborated closely with Product Design team to generate  ideas, define value propositions, and refine experience choices — all grounded in research.
+4. Positive ELT feedback on product concepts. TBD whether the organization will move forward on any concepts for further development and prototyping
 ---
 
 ## Reflections

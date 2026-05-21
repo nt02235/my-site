@@ -1,5 +1,9 @@
 @use "./base.scss";
 
+.page {
+  max-width: 1725; //default is 1500px (or calc($desktop + 300px))
+}
+
 a {
   // color: #cb5822;
   text-decoration: none;
@@ -34,16 +38,3 @@ body {
 h2 {
     color: --tertiary;
 }
-
-//////////////////////////
-///* ── Case study ── *///
-//////////////////////////
-// li {
-//   display: grid;
-//   //grid-template-columns: 140px 1fr;
-//   //gap: 1.5rem;
-//   padding: 1rem 0;
-//   font-size: 1rem;
-//   color: #4a4748;
-//   border-top: 1px dotted rgba(50, 47, 52, 0.15);
-// }

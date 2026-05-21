@@ -1,6 +1,7 @@
 ---
 title:
 draft: true
+cssclasses: cs-wide-page
 ---
 
 # Title
