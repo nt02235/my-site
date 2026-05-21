@@ -10,7 +10,7 @@ enableToc: "true"
 # Expanding into the Bathroom
 
 <!-- meta -->
-**Date:** January 2026 — March 2026
+**Timeline:** January 2026 — March 2026
 
 **My Role:** User Researcher
 
@@ -59,55 +59,110 @@ Our imperative was to understand daily bathroom routines, the space, and existin
 - Mix of household composition and bathroom sizes
 - Included a small subset of users with smart device already in the bathroom to understand behavior and pain points
 
-**Mobile Diary Study (n=18)**
-- Four structured activities covering smart device tours, bathroom tours, and morning/evening routine logging. 
-- Captured the realities of everyday bathroom spaces without observer effect.
+#### Methodology
+<div class="cs-findings"> 
+	<li> 
+		<span class="cs-finding-label">
+			Mobile Diary Study (n=18)
+		</span>
+		<ul>
+			<li>Four structured activities covering smart device tours, bathroom tours, and morning/evening routine logging.</li>
+			<li>Captured the realities of everyday bathroom spaces without observer effect.</li>
+		</ul>
+	</li>
+		<li> 
+		<span class="cs-finding-label">
+			Follow-up In-depth interviews (n=12)
+		</span>
+		<ul>
+			<li><b>Primary goal:</b> routine deep-dive based on diary entries via semi-structured interviewing</li>
+			<li>Secondary goal: concept feedback on real CES 2026 products for an initial read on innovative bathroom technologies with structured interviewing</li>
+		</ul>
+	</li>
+		<li> 
+		<span class="cs-finding-label">
+			Secondary research
+		</span>
+		<ul>
+			<li>Competitive landscape
+			<li>CES 2026 bathroom tech
+			<li>Syndicated behavioral data from the client's internal research team.
+		</ul>
+	</li>
+</div>
 
-**Follow-up In-depth interviews (n=12)**
-- Primary goal: routine deep-dive based on diary entries.
-- Secondary goal: concept feedback on real CES 2026 products for an initial read on innovative bathroom technologies.
-
-**Secondary research**
-- Competitive landscape
-- CES 2026 bathroom tech
-- Syndicated behavioral data from the client's internal research team.
 ### Sprint 2: Concepting
 
 **Concept Ideation Workshop**
 - Led rapid insights presentation, grounding larger team in actionable information
 - Partnered with Product Design team on workshop structure
 - Facilitated break-out group
+
 **Concepting** 
+- Generated breadth of concepts, with 2 ideas remaining in final 7 concepts
+- Conducted ad hoc desk research to support market opportunity
+
 **Refinement**
-- Ensure concepts were 
+- Ensure concepts were grounded in insights 
+- Authored supporting section for each concept
 
 ---
 
 ## Key Findings & Implications
 
+**Process:**
+1. Gathered data using thematic analysis across 72 diary entries (18 participants x 4 activities) and 12 IDI transcripts using dscout
+2. Used thematic analysis to code data against our learning questions to ensure insights answered the team's most important topics
+3. Segmented responses by key variables (household composition, bathroom characteristics) to identify ubiquitous versus segment-specific behavior and mental models.
+4. Leveraged NotebookLM too pressure test themes against the full dataset and to systematically code participants against key variables to support claims
+
 <div class="cs-findings"> 
 	<li> 
 		<span class="cs-finding-label">
-			Two distinct mindset modes:
+			Two distinct mindset modes
 		</span>
 		<span>
 			Across the respondents, users toggle between efficiency-focused (morning, functional) and self-care ritualism (evening, restorative).
 		</span>
 	</li>
+	<li> 
+		<span class="cs-finding-label">
+			Bathroom-specific barriers
+		</span>
+		<span>
+			Humidity, wet hands, and water caused device anxiety. Users were open to technology in the bathroom, but worried about electrical shock and durability of their device, especially for parents of young children. 
+		</span>
+	</li>
+	<li>
+		<span class="cs-finding-label">
+			Static space with limited configuration
+		</span>
+		<span>
+			Bathrooms are fixed environments that are not easily modified. A lack of counter space, organization, and power outlets were a consistent pain point, regardless of household size.
+		</span>
+	</li>
+	<li> 
+		<span class="cs-finding-label">
+			Bathroom is an anchor for health
+		</span>
+		<span>
+			Evaluating personal health already happens in the bathroom. With or without health tracking devices, users are adjusting their routine based on how they feel and look.
+		</span>
+	</li>
 </div>
 
-1. **Two distinct mindset modes:** Across the respondents, users toggle between efficiency-focused (morning, functional) and self-care ritualism (evening, restorative). 
+%% 1. **Two distinct mindset modes:** Across the respondents, users toggle between efficiency-focused (morning, functional) and self-care ritualism (evening, restorative). 
 	- User-based personalization must take time of day into account
 	- Efficiency modes require hands-free controls
-2. **Bathroom-specific barriers:** Humidity, wet hands, and water caused device anxiety. Users were open to technology in the bathroom, but worried about electrical shock and durability of their device, especially for parents of young children. 
+1. **Bathroom-specific barriers:** Humidity, wet hands, and water caused device anxiety. Users were open to technology in the bathroom, but worried about electrical shock and durability of their device, especially for parents of young children. 
 	- Include waterproof hardware for child-friendly concepts
-3. **Static space with limited configuration:** Bathrooms are fixed environments that are not easily modified. A lack of counter space, organization, and power outlets were a consistent pain point, regardless of household size.
+2. **Static space with limited configuration:** Bathrooms are fixed environments that are not easily modified. A lack of counter space, organization, and power outlets were a consistent pain point, regardless of household size.
 	- Hardware design must be mindful of space constraints.
 	- Installation must be minimal and easy
 ![[Illustrative-Diary-Image.png]]
-4. **Bathroom is an anchor for health:** Evaluating personal health naturally happens in the bathroom. The mirror, toilet, and shower are key places to 
+3. **Bathroom is an anchor for health:** Evaluating personal health naturally happens in the bathroom. The mirror, toilet, and shower are key places to 
 
-
+%%
 
 ---
 
@@ -133,7 +188,5 @@ This project was about early product concepting.
 
 Scoping hard at intake — negotiating health off the brief and right-sizing the research plan — was the decisive call that made delivery possible. The diary + IDI combination surfaced the efficiency/ritualism insight within the first days of fielding, giving synthesis a clear organizing frame.
 
-### What I'd do differently: 
-- The insights board went through a major rewrite two weeks before final delivery because the initial framing prioritized narrative over the statistical evidence the client needed for internal selling. Earlier alignment on what "a good research board" looked like for this context would have saved significant rework.
-
-- The engagement also involved navigating subterranean misalignment between two client-side stakeholders on narrative direction — consulting craft that doesn't show up in deliverables but was essential to keeping the project moving.
+### What I'd do differently 
+- **Aligning Output Needs Earlier:** The insights board went through a major rewrite two weeks before final delivery because the initial framing prioritized narrative over the statistical evidence the client needed for internal selling. Earlier alignment on what "a good research board" looked like for this context would have saved significant rework.

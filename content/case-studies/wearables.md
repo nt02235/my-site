@@ -4,6 +4,7 @@ draft: true
 date: 2025-09-15
 tags:
   - hardware
+  - qual
 ---
 # Wearables Generative Research
 

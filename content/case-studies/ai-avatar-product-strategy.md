@@ -3,6 +3,7 @@ title: AI Avatar North Star
 draft: false
 tags:
   - hardware
+  - mixed methods
 cssclasses:
 date: 2026-01-01
 ---
