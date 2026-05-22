@@ -15,17 +15,17 @@ export default (() => {
       display: grid;
       grid-template-columns: 25% 1fr;
       gap: 1.5rem;
-      padding: 0.8em 0.75em;
+      margin-left: 2rem;
+      padding: 0.8em 0.75em 0.8em 0;
       font-size: 1rem;
-      color: #4a4748;
-      border-top: 1px dotted rgba(50, 47, 52, 0.15);
+      border-bottom: 1px dashed var(--lightgray);
     }
 
     .cs-finding-label {
-      font-size: 1.15em;
-      font-weight: 700;
+      font-weight:700;
+      font-style: italic;
       text-transform: title-case;
-      color: #322f34;
+      color: var(--tertiary);
     }
 
     .cs-findings ul {
@@ -36,7 +36,7 @@ export default (() => {
 
     .cs-findings ul li {
         display: list-item;
-        border-top: none;
+        border-bottom: none;
         padding: 0;
         grid-template-columns: unset;
 
