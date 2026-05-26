@@ -42,6 +42,14 @@ Conducted concept testing across quant and qual methods via low-fidelity stimuli
 - "Sketches" conveying form factor and hardware features
 - ~30 use cases write-ups
 
+![[sample-ai-avatar-stimuli.png]]
+
+### Role
+- Lead researcher
+- Managed team of 1 quant researcher and 2 qual researchers
+
+### Quant Studies
+
 <div class="cs-findings"> 
 	<li> 
 		<span class="cs-finding-label">
@@ -66,13 +74,23 @@ Conducted concept testing across quant and qual methods via low-fidelity stimuli
 			</ul>
 		</span>
 	</li>
+</div>
+
+### Qual Studies
+
+**Audience**
+- Recruited power users of smart speakers, based on the hypothesis that an AI Avatar product is an evolution of the home smart speaker
+- Balance of parents with young children and non-parent households
+
+<div class="cs-findings">
 	<li> 
 		<span class="cs-finding-label">
 			Mobile Diary Study (n=21)
 		</span>
 		<span>
 			<ul>
-				<li>TKTK
+				<li>Launched a diary study to understand how 
+				<li>Especially for parents, evaluated boundaries of technology with children over 3 days
 			</ul>
 		</span>
 	</li>
@@ -88,9 +106,8 @@ Conducted concept testing across quant and qual methods via low-fidelity stimuli
 	</li>
 </div>
 
-### Role: 
-- Lead researcher
-- Managed team of 1 quant researcher and 2 qual researchers
+### Sample use case prioritization exercise
+![[use-case-prioritization.gif]]
 
 ## Phase 2 (4 weeks) 
 **Goal:** Phase 1 had benchmarked the concept against smart speakers. Phase 2 tested the avatar's specific value relative to text chatbots and voice assistants, using refined stimuli and direct comparison tasks across additional IDIs.
@@ -110,8 +127,12 @@ Conducted concept testing across quant and qual methods via low-fidelity stimuli
 		<span class="cs-finding-label">
 			Two beachhead audiences
 		</span>
-		<span>
-			Tech-centric families and performance-oriented power users — an expansion from Phase 1's family-first framing, giving the client a more flexible go-to-market story.
+		<span>		
+			<ul>
+				<li>Validated that parents of young children are a beachhead family
+				<ul><li>Sharpened definition to families that encourage their kids to experiment with technology, particularly AI.</ul>
+				<li>Identified a secondary beachhead audience with solo households that seek to continually self-improve with technology.
+			</ul>
 		</span>
 	</li>
 		<li> 
@@ -130,8 +151,11 @@ Conducted concept testing across quant and qual methods via low-fidelity stimuli
 		<span class="cs-finding-label">
 			Avatar as trust signal
 		</span>
-		<span>
-			Mismatched avatars (e.g., childlike voice paired with professional-advice use case) actively undermined user trust — repositioning avatar design from a styling decision to a functional product constraint.
+		<span>	
+			<ul>
+				<li>Mismatched avatars (e.g., childlike voice paired with professional-advice use case) actively undermined user trust
+				<li>Repositioned avatar design from a styling decision to a functional product constraint.
+			</ul>
 		</span>
 	</li>
 		<li> 
@@ -147,22 +171,19 @@ Conducted concept testing across quant and qual methods via low-fidelity stimuli
 	</li>
 </div>
 
----
-
-## Impact
+%% ## Impact
 
 <!-- metrics -->
-- 2 | Beachhead audiences identified, up from one
+ - 2 | Beachhead audiences identified, up from one
 
 - 3 | Leadership levels the work climbed
 
 - 72 hrs | Turnaround for restructured readout + PRFAQ + north star draft
 
-- ~24 hrs | To deliver poster-ready metrics for executive demo
+- ~24 hrs | To deliver poster-ready metrics for executive demo 
 
-Research directly informed hardware placement decisions (bedroom removed from consideration), onboarding sequence design, and product positioning. The engagement grew from a research scope to include concept film support, PRFAQ contribution, north star drafting, and executive demo prep — scope expansions that reflect decision-making trust, not just delivery.
-
----
+1. Research directly informed hardware placement decisions (bedroom removed from consideration), onboarding sequence design, and product positioning. 
+2.  %%
 
 ## Reflections
 
