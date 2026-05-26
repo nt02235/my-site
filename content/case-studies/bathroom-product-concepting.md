@@ -130,6 +130,8 @@ There was a mix of household composition and bathroom sizes and we included a sm
 	</li>
 </div>
 
+![[bathroom-qual-segment-summary.png]]
+
 ## Sprint 2: Concepting (3 weeks)
 
 **Concept Ideation Workshop**

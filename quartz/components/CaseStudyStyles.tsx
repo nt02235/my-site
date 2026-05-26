@@ -30,8 +30,10 @@ export default (() => {
 
     .cs-findings ul {
         list-style: disc;
-        padding-left: 1.25rem;
+        padding-left: 1.25rem;  
         display: block;
+        margin-block-start: 0em;
+        margin-block-end: 0em;
     }
 
     .cs-findings ul li {

@@ -22,13 +22,13 @@ Two phases of mixed-methods research reframed an AI avatar concept from "smart s
 
 ## Context
 
-Our client had developed an exciting proof of concept that visualized AI into an avatar, gaining initial approval from SVP leadership to continue product development. While they recognized they had compelling and feasible technology, it lacked sufficient market definition. 
+Our client had developed an exciting proof of concept that visualized AI into an avatar, gaining initial approval from SVP leadership to continue product development. While they recognized they had compelling technology, it lacked a sufficient marketing strategy. 
 
 ### Project Goal
-Evaluate the viability of an emerging technology for broad consumer set in order to define a GTM product strategy for executive leadership buy-in.
+Evaluate the viability the AI Avatar among a broad consumer set in order to define a GTM product strategy for executive leadership buy-in.
 
 ### Core Questions
-1. Does this concept work with consumers?
+1. Does this concept resonate with consumers?
 2. Who is the beachhead audience at product launch? 
 3. How should the product be positioned? 
 4. What is the role of the avatar for users?
@@ -36,14 +36,63 @@ Evaluate the viability of an emerging technology for broad consumer set in order
 ---
 
 ## Phase 1 (5 weeks) 
-**Goal:** establish whether the concept viability and identify beachhead audiences through segmentation analysis (LCA)
-- Online survey with concept testing (n=1,200 gen-pop)
-- Mobile diary studies and follow-up 1:1 interviews
-- Concept feedback across quant and qual via low-fidelity stimuli
-	- "Sketches" conveying form factor and hardware features
-	- ~30 use cases write-ups
+Mixed methods user research to evaluate high-level concept feedback, identify high-value segments, and interrogate an internal hypothesis that families with young children is the beachhead audience.
 
-## Phase 2 Use Case & Avatar Evaluation (4 weeks) 
+Conducted concept testing across quant and qual methods via low-fidelity stimuli.
+- "Sketches" conveying form factor and hardware features
+- ~30 use cases write-ups
+
+<div class="cs-findings"> 
+	<li> 
+		<span class="cs-finding-label">
+			Gen Pop Survey (n=1,200)
+		</span>
+		<span>
+			<ul>
+				<li>Captured psychographic and behavioral signals with high-level concept feedback to power segmentation
+				<li>Ensured minimum quota for families with young children
+				<li>Weighted results for region, HHI, and gender
+			</ul>
+		</span>
+	</li>
+	<li> 
+		<span class="cs-finding-label">
+			LCA Segmentation
+		</span>
+		<span>
+			<ul>
+				<li>Identified 7 classes based based on 12 factors
+				<li>Primary differentiator was household composition and attitudes toward technology
+			</ul>
+		</span>
+	</li>
+	<li> 
+		<span class="cs-finding-label">
+			Mobile Diary Study (n=21)
+		</span>
+		<span>
+			<ul>
+				<li>TKTK
+			</ul>
+		</span>
+	</li>
+	<li> 
+		<span class="cs-finding-label">
+			Follow=up 1:1 interviews (n=18)
+		</span>
+		<span>
+			<ul>
+				<li>TKTK
+			</ul>
+		</span>
+	</li>
+</div>
+
+### Role: 
+- Lead researcher
+- Managed team of 1 quant researcher and 2 qual researchers
+
+## Phase 2 (4 weeks) 
 **Goal:** Phase 1 had benchmarked the concept against smart speakers. Phase 2 tested the avatar's specific value relative to text chatbots and voice assistants, using refined stimuli and direct comparison tasks across additional IDIs.
 - Mobile diary studies and follow-up 1:1 interviews
 - Use case testing with higher fidelity video clips
@@ -55,15 +104,48 @@ Evaluate the viability of an emerging technology for broad consumer set in order
 
 ## Key findings
 
-1. **Two beachhead audiences:** Tech-centric families and performance-oriented power users — an expansion from Phase 1's family-first framing, giving the client a more flexible go-to-market story.
 
-2. **Expert use cases win:** Cooking and exercise were the only scenarios where the avatar clearly outperformed voice-only interaction, scoring 4.7 and 4.5 out of 5. Butler use cases had immediate appeal; companion use cases didn't hold up.
-
-3. **Avatar as trust signal:** Mismatched avatars (e.g., childlike voice paired with professional-advice use case) actively undermined user trust — repositioning avatar design from a styling decision to a functional product constraint.
-
-4. **Portability as must-have:** Surfaced unprompted in 8 of 16 Phase 2 sessions, anchored to kitchen and exercise spaces. Moved from stretch goal to hardware requirement based on user demand, not assumption.
-
-5. **Context-dependent privacy:** Spatial awareness was rejected in the abstract but accepted when tied to specific user-controlled tasks — reshaping onboarding sequencing to never lead with always-on camera features.
+<div class="cs-findings"> 
+	<li> 
+		<span class="cs-finding-label">
+			Two beachhead audiences
+		</span>
+		<span>
+			Tech-centric families and performance-oriented power users — an expansion from Phase 1's family-first framing, giving the client a more flexible go-to-market story.
+		</span>
+	</li>
+		<li> 
+		<span class="cs-finding-label">
+			Expert use cases have broad appeal
+		</span>
+		<span>
+			<ul>
+				<li>Two "expert" use cases were the only scenarios where the avatar clearly outperformed voice-only interaction.
+				<li>"Assistant" use cases had immediate appeal, but middling value of the avatar. 
+				<li>"Friend" use cases had niche appeal.
+			</ul>
+		</span>
+	</li>
+		<li> 
+		<span class="cs-finding-label">
+			Avatar as trust signal
+		</span>
+		<span>
+			Mismatched avatars (e.g., childlike voice paired with professional-advice use case) actively undermined user trust — repositioning avatar design from a styling decision to a functional product constraint.
+		</span>
+	</li>
+		<li> 
+		<span class="cs-finding-label">
+			Portability as must-have
+		</span>
+		<span>	
+			<ul>
+				<li>The need more a portable device came up unprompted in more than half of interviews. 
+				<li>Informed the need for hardware requirement based on user demand, not assumption.
+			</ul>
+		</span>
+	</li>
+</div>
 
 ---
 
