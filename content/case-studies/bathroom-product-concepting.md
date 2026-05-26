@@ -2,6 +2,8 @@
 title: Bathroom Product Concepts
 draft: false
 tags:
+  - generative
+  - qual
   - hardware
 date: 2026-03-31
 enableToc: "true"
@@ -27,7 +29,7 @@ Our client is a well-known household brand, with market leadership for their fla
 With fewer customers upgrading, our client wanted to explore purpose-built devices designed specifically for private spaces as a path for growing device ownership. Strategically, our PM team chose the bathroom to focus on, hypothesizing that it was a natural space for consumers to integrate health tech, a market that showed promising growth.   
 
 ### Project Goal
-Breadth of product concepts purpose-built for the bathroom, inspired by generative primary research.
+Develop a breadth of product concepts purpose-built for the bathroom, grounded in generative user research.
 
 ### Core Questions
 1. How do people actually use bathrooms? What factors influence behavior?
@@ -88,7 +90,7 @@ There was a mix of household composition and bathroom sizes and we included a sm
 1. Gathered data using thematic analysis across 72 diary entries (18 participants x 4 activities) and 12 IDI transcripts using dscout
 2. Used thematic analysis to code data against our learning questions to ensure insights answered the team's most important topics
 3. Segmented responses by key variables (household composition, bathroom characteristics) to identify ubiquitous versus segment-specific behavior and mental models.
-4. Leveraged NotebookLM too pressure test themes against the full dataset and to systematically code participants against key variables to support claims
+4. Leveraged NotebookLM to pressure test themes against the full dataset and to systematically code participants against key variables to support claims
 
 
 ## Key Findings

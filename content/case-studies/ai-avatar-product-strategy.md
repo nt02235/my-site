@@ -2,41 +2,40 @@
 title: AI Avatar North Star
 draft: false
 tags:
-  - hardware
+  - evaluative
   - mixed methods
+  - hardware
 cssclasses:
 date: 2026-01-01
 ---
 # AI Avatar Product Concept
 
-<!-- meta -->
-**Date:** November 2025 — January 2026
+Two phases of mixed-methods research reframed an AI avatar concept from "smart speaker with a face" into a sharper expert-coach narrative with two viable beachhead audiences — directly shaping the product brief and supporting an executive demo.
 
-**Role:** Research Lead
+**Timeline:** November 2025 — January 2026
 
-**Team:** Account lead · PM · Designer
+**My Role:** Research Lead
+
+**Core Team:** PM x 2 · Designer · Account Lead
 
 **Client:** Fortune 100 Devices Team
 
-<!-- intro -->
-Two phases of mixed-methods research reframed an AI avatar concept from "smart speaker with a face" into a sharper expert-coach narrative with two viable beachhead audiences — directly shaping the product brief and supporting an executive demo.
-
----
-
 ## Context
 
-A hardware proof-of-concept had generated executive excitement but lacked  research-backed foundation needed for leadership confidence that this was a viable consumer product. 
+Our client had developed an exciting proof of concept that visualized AI into an avatar, gaining initial approval from SVP leadership to continue product development. While they recognized they had compelling and feasible technology, it lacked sufficient market definition. 
 
-### The core questions: 
+### Project Goal
+Evaluate the viability of an emerging technology for broad consumer set in order to define a GTM product strategy for executive leadership buy-in.
+
+### Core Questions
 1. Does this concept work with consumers?
-2. Who is it for?
-3. What is the role of the avatar for users?
+2. Who is the beachhead audience at product launch? 
+3. How should the product be positioned? 
+4. What is the role of the avatar for users?
 
 ---
 
-## Approach
-
-### Phase 1 — Concept viability and audience identification (5 weeks) 
+## Phase 1 (5 weeks) 
 **Goal:** establish whether the concept viability and identify beachhead audiences through segmentation analysis (LCA)
 - Online survey with concept testing (n=1,200 gen-pop)
 - Mobile diary studies and follow-up 1:1 interviews
@@ -44,7 +43,7 @@ A hardware proof-of-concept had generated executive excitement but lacked  resea
 	- "Sketches" conveying form factor and hardware features
 	- ~30 use cases write-ups
 
-### Phase 2 — Sharpening the value of the avatar (4 weeks) 
+## Phase 2 Use Case & Avatar Evaluation (4 weeks) 
 **Goal:** Phase 1 had benchmarked the concept against smart speakers. Phase 2 tested the avatar's specific value relative to text chatbots and voice assistants, using refined stimuli and direct comparison tasks across additional IDIs.
 - Mobile diary studies and follow-up 1:1 interviews
 - Use case testing with higher fidelity video clips
