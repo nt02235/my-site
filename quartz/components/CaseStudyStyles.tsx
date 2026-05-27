@@ -26,6 +26,7 @@ export default (() => {
       font-style: italic;
       text-transform: title-case;
       color: var(--tertiary);
+
     }
 
     .cs-findings ul {
@@ -42,6 +43,10 @@ export default (() => {
         padding: 0;
         grid-template-columns: unset;
 
+    .cs-impact li::marker {
+          content: "→ ";
+          font-size: 1.2em;
+        }
     }
     
     @media (max-width: 500px) {

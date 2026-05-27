@@ -25,7 +25,7 @@ Two phases of mixed-methods research reframed an AI avatar concept from "smart s
 Our client had developed an exciting proof of concept that visualized AI into an avatar, gaining initial approval from SVP leadership to continue product development. While they recognized they had compelling technology, it lacked a sufficient marketing strategy. 
 
 ### Project Goal
-Evaluate the viability the AI Avatar among a broad consumer set in order to define a GTM product strategy for executive leadership buy-in.
+Evaluate the viability of "AI Avatar" among a broad consumer set in order to define a GTM product strategy for executive leadership buy-in.
 
 ### Core Questions
 1. Does this concept resonate with consumers?
@@ -36,17 +36,21 @@ Evaluate the viability the AI Avatar among a broad consumer set in order to defi
 ---
 
 ## Phase 1 (5 weeks) 
+
+### Role
+- Lead researcher
+- Managed team of 1 quant researcher and 2 qual researchers
+
+### Summary
 Mixed methods user research to evaluate high-level concept feedback, identify high-value segments, and interrogate an internal hypothesis that families with young children is the beachhead audience.
+
+### Concept Testing
 
 Conducted concept testing across quant and qual methods via low-fidelity stimuli.
 - "Sketches" conveying form factor and hardware features
 - ~30 use cases write-ups
 
 ![[sample-ai-avatar-stimuli.png]]
-
-### Role
-- Lead researcher
-- Managed team of 1 quant researcher and 2 qual researchers
 
 ### Quant Studies
 
@@ -78,19 +82,27 @@ Conducted concept testing across quant and qual methods via low-fidelity stimuli
 
 ### Qual Studies
 
-**Audience**
-- Recruited power users of smart speakers, based on the hypothesis that an AI Avatar product is an evolution of the home smart speaker
-- Balance of parents with young children and non-parent households
-
 <div class="cs-findings">
 	<li> 
 		<span class="cs-finding-label">
-			Mobile Diary Study (n=21)
+			Audience Strategy
 		</span>
 		<span>
 			<ul>
-				<li>Launched a diary study to understand how 
-				<li>Especially for parents, evaluated boundaries of technology with children over 3 days
+				<li>Recruited power users of smart speakers, based on the hypothesis that "AI Avatar" is an evolution of the home smart speaker
+				<li>Balance of parents with young children and non-parent households
+			</ul>
+		</span>
+	</li>
+	<li> 
+		<span class="cs-finding-label">
+			3-Day Mobile Diary Study (n=21)
+		</span>
+		<span>
+			<ul>
+				<li>Launched a diary study to get a sense of smart speaker ownership placement, rationale, and usage throughout home
+				<li>Multiple entries to understand various ways voice assistants help them throughout their day, including pain points
+				<li>Evaluated boundaries of technology: what they invite into the home, what they avoid, and why
 			</ul>
 		</span>
 	</li>
@@ -100,24 +112,57 @@ Conducted concept testing across quant and qual methods via low-fidelity stimuli
 		</span>
 		<span>
 			<ul>
-				<li>TKTK
+				<li>Establish key behaviors and probed on voice assistant usage
+				<li>Concept testing with feedback
+				<li>Use case prioritization exercise with virtual whiteboard
 			</ul>
 		</span>
 	</li>
 </div>
 
-### Sample use case prioritization exercise
-![[use-case-prioritization.gif]]
+### Affinity Map Analysis
+
+![[use-cases-affinity-map.png]]
 
 ## Phase 2 (4 weeks) 
-**Goal:** Phase 1 had benchmarked the concept against smart speakers. Phase 2 tested the avatar's specific value relative to text chatbots and voice assistants, using refined stimuli and direct comparison tasks across additional IDIs.
+### Objective
+Two major shifts emerged from Phase 1 
+1. Grounding Phase 1 in smart speaker power users may have introduced bias. 
+2. Want to 
+
+### Qualitative Methods
+
+<div class="cs-findings"> 
+	<li> 
+		<span class="cs-finding-label">
+			5-Day Mobile Diary Study (n=20)
+		</span>
+		<span>
+			<ul>
+				<li> TKTK
+			</ul>
+		</span>
+	</li>
+		<li> 
+		<span class="cs-finding-label">
+			Follow-up 1:1 Interviews (n=16)
+		</span>
+		<span>
+			<ul>
+				<li>
+			</ul>
+		</span>
+	</li>
+</div>
+Phase 1 had benchmarked the concept against smart speakers. Phase 2 tested the avatar's specific value relative to text chatbots and voice assistants, using refined stimuli and direct comparison tasks across additional IDIs.
+
 - Mobile diary studies and follow-up 1:1 interviews
 - Use case testing with higher fidelity video clips
 	- 30-second intro
 	- 6 use case clips
 	- Voice / Screen / Avatar-based alt to isolate modality preference
 
----
+![[form-factor-test.png]]
 
 ## Key findings
 
@@ -130,8 +175,10 @@ Conducted concept testing across quant and qual methods via low-fidelity stimuli
 		<span>		
 			<ul>
 				<li>Validated that parents of young children are a beachhead family
-				<ul><li>Sharpened definition to families that encourage their kids to experiment with technology, particularly AI.</ul>
-				<li>Identified a secondary beachhead audience with solo households that seek to continually self-improve with technology.
+				<li>Identified a secondary beachhead audience with solo households that seek to continually self-improve with technology.</li>
+				<span class="cs-impact">
+				<li class="cs-impact">Sharpened definition to families that encourage their kids to experiment with technology, particularly AI.</li>
+				</span>
 			</ul>
 		</span>
 	</li>
