@@ -127,8 +127,13 @@ Conducted concept testing across quant and qual methods via low-fidelity stimuli
 ## Phase 2 (4 weeks) 
 ### Objective
 Two major shifts emerged from Phase 1 
-1. Grounding Phase 1 in smart speaker power users may have introduced bias. 
-2. Want to 
+1. Grounding Phase 1 in smart speaker power users was an intention choice that may have introduce bias into analysis. Phase 2 grounded in Gen AI chatbot usage of varying expertise
+2. Tested the avatar's specific value relative to text chatbots and voice assistants, using refined stimuli and direct comparison tasks across additional IDIs.
+
+- [ ] Use case testing with higher fidelity video clips
+	- 30-second intro
+	- 6 use case clips
+	- Voice / Screen / Avatar-based alt to isolate modality preference
 
 ### Qualitative Methods
 
@@ -149,18 +154,11 @@ Two major shifts emerged from Phase 1
 		</span>
 		<span>
 			<ul>
-				<li>
+				<li>TKTK
 			</ul>
 		</span>
 	</li>
 </div>
-Phase 1 had benchmarked the concept against smart speakers. Phase 2 tested the avatar's specific value relative to text chatbots and voice assistants, using refined stimuli and direct comparison tasks across additional IDIs.
-
-- Mobile diary studies and follow-up 1:1 interviews
-- Use case testing with higher fidelity video clips
-	- 30-second intro
-	- 6 use case clips
-	- Voice / Screen / Avatar-based alt to isolate modality preference
 
 ![[form-factor-test.png]]
 

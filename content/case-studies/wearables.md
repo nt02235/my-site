@@ -1,10 +1,11 @@
 ---
 title: Wearables (Coming soon...)
-draft: true
+draft: false
 date: 2025-09-15
 tags:
   - hardware
-  - qual
+  - mobile diary study
+  - 1:1 interviews
 ---
 # Wearables Generative Research
 
@@ -15,7 +16,7 @@ tags:
 
 **Team:** Product Designer, PM, Qual Research Team
 
-**Client:** FAANG
+**Client:** Fortune 100 Devices team
 
 <!-- intro -->
 Check back later...
